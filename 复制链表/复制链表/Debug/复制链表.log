@@ -1,0 +1,3 @@
+﻿  复制链表.cpp
+f:\ropes\复制链表\复制链表\复制链表.cpp(18): warning C4091: “typedef ”: 没有声明变量时忽略“LNode”的左侧
+  复制链表.vcxproj -> F:\Ropes\复制链表\Debug\复制链表.exe

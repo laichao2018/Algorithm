@@ -1,0 +1,3 @@
+﻿  int_rand_List.cpp
+f:\ropes\int_rand_list\int_rand_list\int_rand_list.cpp(49): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  int_rand_List.vcxproj -> F:\Ropes\int_rand_List\Debug\int_rand_List.exe

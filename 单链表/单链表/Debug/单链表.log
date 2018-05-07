@@ -1,0 +1,3 @@
+﻿  单链表.cpp
+f:\ropes\单链表\单链表\单链表.cpp(18): warning C4091: “typedef ”: 没有声明变量时忽略“LNode”的左侧
+  单链表.vcxproj -> F:\Ropes\单链表\Debug\单链表.exe

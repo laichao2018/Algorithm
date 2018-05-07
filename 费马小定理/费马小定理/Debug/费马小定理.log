@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  费马小定理.cpp
+f:\ropes\费马小定理\费马小定理\费马小定理.cpp(16): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__int128”关键字
+f:\ropes\费马小定理\费马小定理\费马小定理.cpp(16): error C2065: “t”: 未声明的标识符
+f:\ropes\费马小定理\费马小定理\费马小定理.cpp(17): error C2065: “t”: 未声明的标识符
+f:\ropes\费马小定理\费马小定理\费马小定理.cpp(24): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据

@@ -1,0 +1,5 @@
+﻿  素筛法.cpp
+f:\ropes\素筛法\素筛法\素筛法.cpp(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\ropes\素筛法\素筛法\素筛法.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+f:\ropes\素筛法\素筛法\素筛法.cpp(10): warning C4101: “i”: 未引用的局部变量
+  素筛法.vcxproj -> F:\Ropes\素筛法\Debug\素筛法.exe

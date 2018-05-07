@@ -1,0 +1,4 @@
+﻿  快速幂.cpp
+f:\ropes\快速幂\快速幂\快速幂.cpp(14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\ropes\快速幂\快速幂\快速幂.cpp(25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  快速幂.vcxproj -> F:\Ropes\快速幂\Debug\快速幂.exe

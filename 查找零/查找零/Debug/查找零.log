@@ -1,0 +1,5 @@
+﻿  查找零.cpp
+f:\ropes\查找零\查找零\查找零.cpp(33): warning C4305: “参数”: 从“double”到“float”截断
+f:\ropes\查找零\查找零\查找零.cpp(33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\ropes\查找零\查找零\查找零.cpp(33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  查找零.vcxproj -> F:\Ropes\查找零\Debug\查找零.exe

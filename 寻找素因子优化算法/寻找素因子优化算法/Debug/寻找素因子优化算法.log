@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  寻找素因子优化算法.cpp
+f:\ropes\寻找素因子优化算法\寻找素因子优化算法\寻找素因子优化算法.cpp(17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\ropes\寻找素因子优化算法\寻找素因子优化算法\寻找素因子优化算法.cpp(24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  寻找素因子优化算法.vcxproj -> F:\Ropes\寻找素因子优化算法\Debug\寻找素因子优化算法.exe

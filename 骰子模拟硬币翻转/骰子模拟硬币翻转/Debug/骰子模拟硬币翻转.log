@@ -1,0 +1,3 @@
+﻿  骰子模拟硬币翻转.cpp
+f:\ropes\骰子模拟硬币翻转\骰子模拟硬币翻转\骰子模拟硬币翻转.cpp(19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  骰子模拟硬币翻转.vcxproj -> F:\Ropes\骰子模拟硬币翻转\Debug\骰子模拟硬币翻转.exe
